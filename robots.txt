@@ -13,4 +13,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://m-mahadi.github.io/wander-cargo-client-work/sitemap.xml
+Sitemap: https://wandercargo.com/sitemap.xml
